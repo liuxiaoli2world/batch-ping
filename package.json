@@ -1,0 +1,11 @@
+{
+  "name": "batch-ping",
+  "version": "1.0.0",
+  "description": "node版 批量ping，包含读文件、写文件、中文编码、批量ping等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

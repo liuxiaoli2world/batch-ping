@@ -1,0 +1,4 @@
+wwww.baidu.com 		ok
+www.sina.cn 		ok
+192.168.89.46 		error
+#FFDB94
